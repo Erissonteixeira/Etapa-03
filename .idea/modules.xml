@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/MatrizQuadrada.iml" filepath="$PROJECT_DIR$/MatrizQuadrada.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/OrdenandoVetor.iml" filepath="$PROJECT_DIR$/OrdenandoVetor.iml" />
+>>>>>>> dec21a9 (feat: Adiciona Exercicio 11 Ordenando Vetor Bubble Sort)
     </modules>
   </component>
 </project>
