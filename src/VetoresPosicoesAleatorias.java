@@ -9,10 +9,13 @@ import java.util.Random;
         preencherComAleatorios (vetor1);
         preencherComAleatorios (vetor2);
 
-        System.out.println("vetor 1 (não ordenados): ");
+        Arrays.sort(vetor1);
+        Arrays.sort(vetor2);
+
+        System.out.println("vetor 1 (ordenado): ");
         imprimirVetor(vetor1);
 
-        System.out.println("\nvetor 2 (não ordenado): ");
+        System.out.println("\nvetor 2 (ordenado): ");
         imprimirVetor(vetor2);
 
 
